@@ -15,11 +15,13 @@ This project is an **End-to-End Data Science solution** that identifies global m
 
 ### 1. Global Arbitrage Analysis (Scatter Plot)
 *Green bubbles represent "Opportunity Cities" where purchasing power outweighs the cost of living.*
-![Scatter Plot](BURAYA_SCATTER_PLOT_RESMINI_YUKLE_VE_LINKINI_KOY.png)
+![Scatter Plot](<img width="1039" height="840" alt="arbitrajtablo" src="https://github.com/user-attachments/assets/09326030-d4ae-4fad-b7c7-5e9af5255ffb" />
+)
 
 ### 2. Opportunity Table (Market Inefficiencies)
 *Top cities identified by the AI as having the highest arbitrage potential.*
-![Table](BURAYA_TABLO_RESMINI_YUKLE_VE_LINKINI_KOY.png)
+![Table](<img width="1675" height="595" alt="arbitraj filtre tablosu" src="https://github.com/user-attachments/assets/8debfef4-1aa6-414d-b4dd-ecccc0f39b19" />
+)
 
 ---
 
